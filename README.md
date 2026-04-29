@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drizzletechnova
+- 👋 Hi, I’m @drizzle
 - 👀 I’m interested in machine learning,deep learning, LLMs and the field of AI in general 
 - 🌱 I’m currently learning classical machine learning and neural networks
 - 💞️ I’m looking to collaborate on various intersting projects
